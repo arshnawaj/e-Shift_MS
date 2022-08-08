@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\e-Shift_MS\e-Shift_MS\bin\Debug\e-Shift_MS.exe.config
+C:\Users\pc\source\repos\e-Shift_MS\e-Shift_MS\bin\Debug\e-Shift_MS.exe
+C:\Users\pc\source\repos\e-Shift_MS\e-Shift_MS\bin\Debug\e-Shift_MS.pdb
+C:\Users\pc\source\repos\e-Shift_MS\e-Shift_MS\obj\Debug\e-Shift_MS.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\e-Shift_MS\e-Shift_MS\obj\Debug\e_Shift_MS.Form1.resources
+C:\Users\pc\source\repos\e-Shift_MS\e-Shift_MS\obj\Debug\e_Shift_MS.Properties.Resources.resources
+C:\Users\pc\source\repos\e-Shift_MS\e-Shift_MS\obj\Debug\e-Shift_MS.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\e-Shift_MS\e-Shift_MS\obj\Debug\e-Shift_MS.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\e-Shift_MS\e-Shift_MS\obj\Debug\e-Shift_MS.exe
+C:\Users\pc\source\repos\e-Shift_MS\e-Shift_MS\obj\Debug\e-Shift_MS.pdb
+C:\Users\pc\source\repos\e-Shift_MS\e-Shift_MS\obj\Debug\e_Shift_MS.frmCreateCustomer.resources
+C:\Users\pc\source\repos\e-Shift_MS\e-Shift_MS\obj\Debug\e_Shift_MS.frmUpdateCustomer.resources
