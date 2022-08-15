@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1684
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e-Shift_MS", "e-Shift_MS\e-Shift_MS.csproj", "{CDC2C81F-8FA3-47B0-90C9-6F1931D03436}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{97331FA0-1319-4DE1-8D65-ADAE5CD8FC14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{CDC2C81F-8FA3-47B0-90C9-6F1931D03436}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDC2C81F-8FA3-47B0-90C9-6F1931D03436}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDC2C81F-8FA3-47B0-90C9-6F1931D03436}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97331FA0-1319-4DE1-8D65-ADAE5CD8FC14}.Debug|Any CPU.ActiveCfg = Debug
+		{97331FA0-1319-4DE1-8D65-ADAE5CD8FC14}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
